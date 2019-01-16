@@ -1,10 +1,10 @@
 # CDnCNN-B for blind color image denoising - Tensorflow implementation
 
-This model is trained for blind denoising at multiple noise levels (\[ 0, 55 \]).
+This model is trained for blind denoising at multiple noise levels (\[0, 55\]).
 
-[Paper](http://www4.comp.polyu.edu.hk/~cslzhang/paper/DnCNN.pdf)
+[DnCNN paper (TIP 2017)](http://www4.comp.polyu.edu.hk/~cslzhang/paper/DnCNN.pdf)
 
-## Results
+## Results on CBSD68 dataset
 ![CBSD68](./imgs/denoised.png)
 
 

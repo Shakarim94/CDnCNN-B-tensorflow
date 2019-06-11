@@ -55,6 +55,8 @@ Denoised images are saved in ./test folder.
 
 
 ## Reference
-* Code structure follows the repository [DnCNN-Tensorflow](https://github.com/crisb-DUT/DnCNN-tensorflow) of @crisb-DUT (dataset import and feeding, loading checkpoints etc.).
+1) https://github.com/Monkey-D-Groot/Machine-Learning-on-CSIC-2010 (took some ideas about parsing)
+
+2) https://buhrmann.github.io/tfidf-analysis.html (plot function for TFidf)
 
 

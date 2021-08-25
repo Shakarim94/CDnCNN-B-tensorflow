@@ -1,4 +1,4 @@
 natsort==5.4.1
 numpy==1.14.5
-tensorflow==1.10.0
+tensorflow==2.5.1
 Pillow==5.4.1
